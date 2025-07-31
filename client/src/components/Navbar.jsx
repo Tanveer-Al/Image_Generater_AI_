@@ -32,7 +32,6 @@ const Navbar = () => {
   const gottoHome = () => {
     navigate("/");
   };
-  console.log(path);
   return (
     <Container>
       GemAI
